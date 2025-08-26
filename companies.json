@@ -1,0 +1,1506 @@
+{
+  "Google": [
+    "Two Sum",
+    "Merge Strings Alternately",
+    "Subarray Sum Equals K",
+    "Create Hello World Function",
+    "Power of Three",
+    "Maximum Swap",
+    "Recyclable and Low Fat Products",
+    "Find the Count of Monotonic Pairs I",
+    "Add Two Numbers",
+    "Trapping Rain Water",
+    "Merge Intervals",
+    "Merge Sorted Array",
+    "House Robber",
+    "Longest Substring Without Repeating Characters",
+    "Median of Two Sorted Arrays",
+    "Container With Most Water",
+    "3Sum",
+    "Merge Two Sorted Lists",
+    "Best Time to Buy and Sell Stock",
+    "Number of Islands"
+  ],
+  "Amazon": [
+    "Maximum Profit in Job Scheduling",
+    "Reorganize String",
+    "Two Sum",
+    "LRU Cache",
+    "Number of Islands",
+    "Merge k Sorted Lists",
+    "Analyze User Website Visit Pattern",
+    "Trapping Rain Water",
+    "Best Time to Buy and Sell Stock",
+    "Median of Two Sorted Arrays",
+    "Course Schedule II",
+    "Longest Substring Without Repeating Characters",
+    "Copy List with Random Pointer",
+    "Course Schedule",
+    "Koko Eating Bananas",
+    "3Sum",
+    "Valid Parentheses",
+    "Merge Intervals",
+    "Climbing Stairs",
+    "Word Ladder"
+  ],
+  "Facebook": [
+    "Minimum Remove to Make Valid Parentheses",
+    "Kth Largest Element in an Array",
+    "Diameter of Binary Tree",
+    "Valid Palindrome II",
+    "Valid Word Abbreviation",
+    "Buildings With an Ocean View",
+    "Binary Tree Vertical Order Traversal",
+    "Lowest Common Ancestor of a Binary Tree III",
+    "Merge Sorted Array",
+    "Basic Calculator II",
+    "Binary Tree Right Side View",
+    "Copy List with Random Pointer",
+    "Merge Intervals",
+    "Random Pick with Weight",
+    "Lowest Common Ancestor of a Binary Tree",
+    "Nested List Weight Sum",
+    "Shortest Path in Binary Matrix",
+    "Two Sum",
+    "Top K Frequent Elements",
+    "Subarray Sum Equals K"
+  ],
+  "Microsoft": [
+    "Two Sum",
+    "Create Hello World Function",
+    "Group Anagrams",
+    "Climbing Stairs",
+    "Best Time to Buy and Sell Stock",
+    "Find Peak Element",
+    "Recyclable and Low Fat Products",
+    "Longest Substring Without Repeating Characters",
+    "Longest Palindromic Substring",
+    "Reverse Integer",
+    "3Sum",
+    "Letter Combinations of a Phone Number",
+    "Merge Two Sorted Lists",
+    "Maximum Subarray",
+    "Rotate Array",
+    "Kth Largest Element in an Array",
+    "Path Sum III",
+    "Assign Cookies",
+    "Memoize",
+    "Add Two Numbers"
+  ],
+  "Bloomberg": [
+    "Number of Islands",
+    "Two Sum",
+    "Valid Parentheses",
+    "Merge Intervals",
+    "Word Search",
+    "Decode String",
+    "Flatten a Multilevel Doubly Linked List",
+    "4Sum",
+    "Merge Two Sorted Lists",
+    "LRU Cache",
+    "Min Stack",
+    "Reverse Linked List",
+    "Add Digits",
+    "Two City Scheduling",
+    "Add Two Numbers",
+    "Median of Two Sorted Arrays",
+    "Reverse Integer",
+    "Trapping Rain Water",
+    "Jump Game",
+    "Merge Sorted Array"
+  ],
+  "Apple": [
+    "Find Servers That Handled Most Number of Requests",
+    "Calculate Score After Performing Instructions",
+    "LRU Cache",
+    "Merge Intervals",
+    "Number of Islands",
+    "Move Zeroes",
+    "Task Scheduler",
+    "Find K Closest Elements",
+    "Best Time to Buy and Sell Stock with Transaction Fee",
+    "Two Sum",
+    "Longest Palindromic Substring",
+    "Longest Common Prefix",
+    "Insert Interval",
+    "Merge Sorted Array",
+    "Best Time to Buy and Sell Stock",
+    "Reverse Linked List",
+    "Kth Largest Element in an Array",
+    "Serialize and Deserialize Binary Tree",
+    "Design Tic-Tac-Toe",
+    "Sliding Window Median"
+  ],
+  "Uber": [
+    "My Calendar I",
+    "Bus Routes",
+    "Course Schedule II",
+    "Alien Dictionary",
+    "Design Hit Counter",
+    "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "LRU Cache",
+    "Number of Islands II",
+    "Word Search II",
+    "Basic Calculator II",
+    "Walls and Gates",
+    "Reconstruct Itinerary",
+    "Shuffle an Array",
+    "Optimal Account Balancing",
+    "Find the Closest Palindrome",
+    "24 Game",
+    "Making A Large Island",
+    "Squares of a Sorted Array",
+    "Rotating the Box",
+    "Number of Adjacent Elements With the Same Color"
+  ],
+  "Adobe": [
+    "Top K Frequent Elements",
+    "Maximum Product Subarray",
+    "Top K Frequent Words"
+  ],
+  "Tiktok": [
+    "Trapping Rain Water",
+    "Number of Distinct Islands",
+    "N-Queens",
+    "Course Schedule II",
+    "Add Bold Tag in String",
+    "Shortest Bridge",
+    "Remove Nth Node From End of List",
+    "Text Justification",
+    "Minimum Window Substring",
+    "Construct Binary Tree from Preorder and Inorder Traversal",
+    "LRU Cache",
+    "Word Search II",
+    "Basic Calculator II",
+    "Longest Increasing Subsequence",
+    "Decode String",
+    "Basic Calculator III",
+    "Minimize Malware Spread"
+  ],
+  "Yahoo": [
+    "Flatten Nested List Iterator"
+  ],
+  "Oracle": [
+    "Merge k Sorted Lists",
+    "LRU Cache",
+    "Zigzag Conversion",
+    "Container With Most Water",
+    "Merge Intervals",
+    "Binary Tree Zigzag Level Order Traversal",
+    "Create Maximum Number",
+    "LFU Cache",
+    "Degree of an Array",
+    "Pour Water",
+    "Cache With Time Limit"
+  ],
+  "Goldman-sachs": [
+    "Trapping Rain Water",
+    "Median of Two Sorted Arrays",
+    "First Unique Character in a String",
+    "Search in Rotated Sorted Array",
+    "Consecutive Characters",
+    "Minimum Path Sum",
+    "Sqrt(x)",
+    "Decode Ways",
+    "LRU Cache",
+    "Fraction to Recurring Decimal",
+    "High Five",
+    "Check if the Sentence Is Pangram"
+  ],
+  "Linkedin": [
+    "Pow(x, n)",
+    "All O`one Data Structure",
+    "Max Stack",
+    "Nested List Weight Sum II",
+    "Find the Celebrity",
+    "Nested List Weight Sum",
+    "Find Leaves of Binary Tree",
+    "Max Consecutive Ones III",
+    "Word Ladder",
+    "Shortest Word Distance II",
+    "Minimum Window Substring",
+    "Closest Binary Search Tree Value II",
+    "Exclusive Time of Functions",
+    "Valid Parentheses",
+    "Find First and Last Position of Element in Sorted Array",
+    "Maximum Subarray",
+    "Symmetric Tree",
+    "Binary Tree Upside Down",
+    "Lowest Common Ancestor of a Binary Search Tree",
+    "Bulb Switcher"
+  ],
+  "Salesforce": [
+    "Minimum Operations to Reduce an Integer to 0"
+  ],
+  "Walmart-labs": [
+    "Merge Intervals",
+    "Set Matrix Zeroes",
+    "Longest Consecutive Sequence",
+    "Integer to Roman",
+    "Generate Parentheses",
+    "Search in Rotated Sorted Array",
+    "LRU Cache",
+    "Number of Islands",
+    "Diagonal Traverse",
+    "Rotting Oranges",
+    "Sort the Matrix Diagonally"
+  ],
+  "Tcs": [
+    "Spiral Matrix"
+  ],
+  "Yandex": [
+    "Find K Closest Elements",
+    "Valid Palindrome II",
+    "Valid Palindrome",
+    "Basic Calculator II",
+    "Summary Ranges",
+    "Line Reflection",
+    "Longest Subarray of 1's After Deleting One Element"
+  ],
+  "Zoho": [
+    "Regular Expression Matching",
+    "Wildcard Matching",
+    "Climbing Stairs"
+  ],
+  "Ibm": [
+    "3Sum",
+    "Gray Code"
+  ],
+  "Nvidia": [
+    "Maximum Subarray",
+    "Asteroid Collision",
+    "Maximize Greatness of an Array"
+  ],
+  "Accenture": [
+    "No results."
+  ],
+  "Doordash": [
+    "Walls and Gates",
+    "Shortest Distance from All Buildings",
+    "Design In-Memory File System",
+    "Single-Threaded CPU",
+    "Binary Tree Maximum Path Sum",
+    "Longest Increasing Path in a Matrix",
+    "Largest Rectangle in Histogram",
+    "01 Matrix",
+    "Making A Large Island",
+    "Maximum Profit in Job Scheduling"
+  ],
+  "Flipkart": [
+    "Course Schedule II"
+  ],
+  "Snapchat": [
+    "Number of Distinct Islands",
+    "Bricks Falling When Hit",
+    "Making A Large Island",
+    "Course Schedule II",
+    "Number of Islands",
+    "Basic Calculator II"
+  ],
+  "De-shaw": [
+    "Binary Tree Cameras"
+  ],
+  "Paypal": [
+    "Find Words That Can Be Formed by Characters",
+    "Word Search",
+    "Asteroid Collision"
+  ],
+  "Citadel": [
+    "Merge Intervals"
+  ],
+  "Infosys": [
+    "Merge Sorted Array"
+  ],
+  "Snowflake": [
+    "Step-By-Step Directions From a Binary Tree Node to Another",
+    "Design In-Memory File System",
+    "Minimum Window Substring",
+    "Course Schedule II",
+    "Find All Anagrams in a String",
+    "Calculate Amount Paid in Taxes",
+    "Happy Number",
+    "Basic Calculator",
+    "Design Hit Counter",
+    "Task Scheduler",
+    "Throne Inheritance",
+    "Parallel Courses III"
+  ],
+  "Cisco": [
+    "Implement Router",
+    "Longest Palindromic Substring",
+    "House Robber"
+  ],
+  "Visa": [
+    "3Sum",
+    "Rotating the Box",
+    "Two Sum",
+    "Longest Substring Without Repeating Characters",
+    "Best Time to Buy and Sell Stock",
+    "Reverse Linked List",
+    "Number of Adjacent Elements With the Same Color",
+    "Number of Black Blocks",
+    "Minimum Operations to Write the Letter Y on a Grid"
+  ],
+  "Phonepe": [
+    "No results."
+  ],
+  "Servicenow": [
+    "Container With Most Water"
+  ],
+  "Ebay": [
+    "Time Based Key-Value Store"
+  ],
+  "Atlassian": [
+    "Stock Price Fluctuation",
+    "Lowest Common Ancestor of a Binary Tree"
+  ],
+  "Samsung": [
+    "Substring with Concatenation of All Words",
+    "Longest Increasing Subsequence"
+  ],
+  "Jpmorgan": [
+    "Rotate Image",
+    "Count Binary Substrings",
+    "Find Resultant Array After Removing Anagrams"
+  ],
+  "Intuit": [
+    "No results."
+  ],
+  "Airbnb": [
+    "Text Justification",
+    "Design Excel Sum Formula",
+    "Smallest Common Region"
+  ],
+  "Bytedance": [
+    "No results."
+  ],
+  "Nutanix": [
+    "Reverse Linked List II"
+  ],
+  "Roblox": [
+    "Reorganize String",
+    "Task Scheduler"
+  ],
+  "Wix": [
+    "No results."
+  ],
+  "Pinterest": [
+    "Reconstruct Itinerary",
+    "Bus Routes",
+    "Optimal Account Balancing",
+    "Target Sum"
+  ],
+  "Capital-one": [
+    "Minimum Operations to Write the Letter Y on a Grid",
+    "Count Prefix and Suffix Pairs II",
+    "Block Placement Queries"
+  ],
+  "Coupang": [
+    "Course Schedule"
+  ],
+  "Twitter": [
+    "No results."
+  ],
+  "Tesla": [
+    "No results."
+  ],
+  "Expedia": [
+    "No results."
+  ],
+  "Turing": [
+    "Apply Operations to Make Sum of Array Greater Than or Equal to k"
+  ],
+  "Morgan-stanley": [
+    "No results."
+  ],
+  "Databricks": [
+    "Design Hit Counter",
+    "House Robber",
+    "House Robber II"
+  ],
+  "Sprinklr": [
+    "No results."
+  ],
+  "Epam-systems": [
+    "No results."
+  ],
+  "Netflix": [
+    "Koko Eating Bananas"
+  ],
+  "Qualcomm": [
+    "No results."
+  ],
+  "Agoda": [
+    "No results."
+  ],
+  "Rubrik": [
+    "Find X Value of Array I",
+    "Find X Value of Array II"
+  ],
+  "Medianet": [
+    "No results."
+  ],
+  "Arista-networks": [
+    "No results."
+  ],
+  "Sap": [
+    "No results."
+  ],
+  "Grammarly": [
+    "Merge Intervals",
+    "Number of Islands",
+    "Perfect Number",
+    "Vowel Spellchecker"
+  ],
+  "Anduril": [
+    "Number of Islands"
+  ],
+  "Docusign": [
+    "Integer to Roman",
+    "Implement Trie (Prefix Tree)"
+  ],
+  "Tinkoff": [
+    "No results."
+  ],
+  "Mathworks": [
+    "Shopping Offers",
+    "Binary Tree Cameras",
+    "Sell Diminishing-Valued Colored Balls"
+  ],
+  "Paytm": [
+    "No results."
+  ],
+  "Lyft": [
+    "Rotting Oranges",
+    "Read N Characters Given read4 II - Call Multiple Times"
+  ],
+  "Deutsche-bank": [
+    "No results."
+  ],
+  "Zepto": [
+    "No results."
+  ],
+  "Meesho": [
+    "Number of Unique XOR Triplets II",
+    "Number of Unique XOR Triplets I"
+  ],
+  "Palantir-technologies": [
+    "No results."
+  ],
+  "Datadog": [
+    "Coin Change"
+  ],
+  "Yelp": [
+    "No results."
+  ],
+  "Makemytrip": [
+    "No results."
+  ],
+  "Swiggy": [
+    "No results."
+  ],
+  "Siemens": [
+    "No results."
+  ],
+  "Autodesk": [
+    "No results."
+  ],
+  "Dropbox": [
+    "Guess the Word"
+  ],
+  "Zscaler": [
+    "Minimum Increment to Make Array Unique"
+  ],
+  "American-express": [
+    "No results."
+  ],
+  "Wipro": [
+    "No results."
+  ],
+  "Two-sigma": [
+    "No results."
+  ],
+  "Wayfair": [
+    "No results."
+  ],
+  "Capgemini": [
+    "Reverse Degree of a String"
+  ],
+  "Deloitte": [
+    "No results."
+  ],
+  "Zomato": [
+    "Count the Hidden Sequences"
+  ],
+  "Cognizant": [
+    "No results."
+  ],
+  "Bny-mellon": [
+    "No results."
+  ],
+  "Palo-alto-networks": [
+    "LRU Cache",
+    "Sliding Window Maximum"
+  ],
+  "Akuna-capital": [
+    "No results."
+  ],
+  "Intel": [
+    "No results."
+  ],
+  "Arcesium": [
+    "No results."
+  ],
+  "Zenefits": [
+    "No results."
+  ],
+  "Hashedin": [
+    "No results."
+  ],
+  "Zeta": [
+    "No results."
+  ],
+  "Josh-technology": [
+    "Largest Number"
+  ],
+  "Vmware": [
+    "No results."
+  ],
+  "Bookingcom": [
+    "No results."
+  ],
+  "Geico": [
+    "No results."
+  ],
+  "Myntra": [
+    "No results."
+  ],
+  "Barclays": [
+    "No results."
+  ],
+  "Instacart": [
+    "No results."
+  ],
+  "Blackrock": [
+    "Happy Number"
+  ],
+  "Karat": [
+    "Text Justification",
+    "Check if Every Row and Column Contains All Numbers"
+  ],
+  "Ixl": [
+    "No results."
+  ],
+  "Sofi": [
+    "Maximum Number of Non-overlapping Palindrome Substrings"
+  ],
+  "Fractal-analytics": [
+    "No results."
+  ],
+  "Quora": [
+    "No results."
+  ],
+  "Accolite": [
+    "No results."
+  ],
+  "Tekion": [
+    "Split Array Largest Sum",
+    "Ways to Split Array Into Three Subarrays"
+  ],
+  "Tencent": [
+    "Decode String"
+  ],
+  "Spotify": [
+    "Moving Average from Data Stream",
+    "Two Sum"
+  ],
+  "Affirm": [
+    "No results."
+  ],
+  "Splunk": [
+    "No results."
+  ],
+  "Disney": [
+    "No results."
+  ],
+  "Coinbase": [
+    "Simple Bank System"
+  ],
+  "Openai": [
+    "Design SQL",
+    "Flatten Nested List Iterator"
+  ],
+  "Rippling": [
+    "No results."
+  ],
+  "Mitsogo": [
+    "No results."
+  ],
+  "Juspay": [
+    "Shortest Path in a Weighted Tree",
+    "Sliding Window Maximum",
+    "Largest Color Value in a Directed Graph",
+    "Operations on Tree"
+  ],
+  "Huawei": [
+    "No results."
+  ],
+  "Confluent": [
+    "No results."
+  ],
+  "Pocket-gems": [
+    "No results."
+  ],
+  "Verkada": [
+    "No results."
+  ],
+  "Epic-systems": [
+    "No results."
+  ],
+  "Wells-fargo": [
+    "No results."
+  ],
+  "Square": [
+    "No results."
+  ],
+  "Verily": [
+    "No results."
+  ],
+  "Mongodb": [
+    "No results."
+  ],
+  "Cloudflare": [
+    "No results."
+  ],
+  "Revolut": [
+    "No results."
+  ],
+  "Robinhood": [
+    "No results."
+  ],
+  "Hubspot": [
+    "No results."
+  ],
+  "Squarepoint-capital": [
+    "No results."
+  ],
+  "Ozon": [
+    "No results."
+  ],
+  "Grab": [
+    "No results."
+  ],
+  "Zopsmart": [
+    "No results."
+  ],
+  "Twilio": [
+    "No results."
+  ],
+  "Thoughtspot": [
+    "No results."
+  ],
+  "Crowdstrike": [
+    "No results."
+  ],
+  "Roku": [
+    "No results."
+  ],
+  "Coursera": [
+    "No results."
+  ],
+  "Consultadd": [
+    "No results."
+  ],
+  "Applied-intuition": [
+    "Find Duplicate File in System"
+  ],
+  "Nordstrom": [
+    "Course Schedule"
+  ],
+  "Bcg": [
+    "Course Schedule"
+  ],
+  "Dream11": [
+    "No results."
+  ],
+  "Nike": [
+    "No results."
+  ],
+  "Ukg": [
+    "No results."
+  ],
+  "Verizon": [
+    "No results."
+  ],
+  "Ripple": [
+    "No results."
+  ],
+  "Commvault": [
+    "No results."
+  ],
+  "Amd": [
+    "No results."
+  ],
+  "Drw": [
+    "Maximize Score After Pair Deletions"
+  ],
+  "Baidu": [
+    "No results."
+  ],
+  "Nextdoor": [
+    "All O`one Data Structure"
+  ],
+  "Attentive": [
+    "Parse Lisp Expression"
+  ],
+  "Shopify": [
+    "Walking Robot Simulation"
+  ],
+  "Shopee": [
+    "No results."
+  ],
+  "Flexport": [
+    "No results."
+  ],
+  "Razorpay": [
+    "No results."
+  ],
+  "Waymo": [
+    "Max Points on a Line"
+  ],
+  "Freshworks": [
+    "No results."
+  ],
+  "Cruise-automation": [
+    "No results."
+  ],
+  "Hrt": [
+    "No results."
+  ],
+  "Directi": [
+    "No results."
+  ],
+  "Warnermedia": [
+    "No results."
+  ],
+  "Jane-street": [
+    "No results."
+  ],
+  "Athenahealth": [
+    "No results."
+  ],
+  "Info-edge": [
+    "No results."
+  ],
+  "Microstrategy": [
+    "No results."
+  ],
+  "Pure-storage": [
+    "No results."
+  ],
+  "Mastercard": [
+    "No results."
+  ],
+  "Oyo": [
+    "Furthest Building You Can Reach"
+  ],
+  "Cars24": [
+    "No results."
+  ],
+  "Imc": [
+    "No results."
+  ],
+  "Bolt": [
+    "No results."
+  ],
+  "Akamai": [
+    "No results."
+  ],
+  "Couchbase": [
+    "No results."
+  ],
+  "Box": [
+    "Guess the Word"
+  ],
+  "Avito": [
+    "No results."
+  ],
+  "Hcl": [
+    "No results."
+  ],
+  "Bitgo": [
+    "No results."
+  ],
+  "Uipath": [
+    "No results."
+  ],
+  "Thoughtworks": [
+    "No results."
+  ],
+  "Pornhub": [
+    "No results."
+  ],
+  "Vk": [
+    "No results."
+  ],
+  "Nagarro": [
+    "No results."
+  ],
+  "Pwc": [
+    "No results."
+  ],
+  "Moveworks": [
+    "Shortest Uncommon Substring in an Array"
+  ],
+  "Lime": [
+    "No results."
+  ],
+  "Zoox": [
+    "No results."
+  ],
+  "Netapp": [
+    "No results."
+  ],
+  "Jio": [
+    "No results."
+  ],
+  "Lucid": [
+    "No results."
+  ],
+  "Dp-world": [
+    "No results."
+  ],
+  "Rivian": [
+    "No results."
+  ],
+  "Workday": [
+    "No results."
+  ],
+  "Dunzo": [
+    "No results."
+  ],
+  "Ge-healthcare": [
+    "No results."
+  ],
+  "Persistent-systems": [
+    "No results."
+  ],
+  "Darwinbox": [
+    "No results."
+  ],
+  "Graviton": [
+    "No results."
+  ],
+  "Zs-associates": [
+    "No results."
+  ],
+  "Indeed": [
+    "No results."
+  ],
+  "General-motors": [
+    "Number of Connected Components in an Undirected Graph"
+  ],
+  "Virtu": [
+    "No results."
+  ],
+  "Airtel": [
+    "No results."
+  ],
+  "Point72": [
+    "No results."
+  ],
+  "Kla": [
+    "No results."
+  ],
+  "Nuro": [
+    "No results."
+  ],
+  "Amdocs": [
+    "No results."
+  ],
+  "Moloco": [
+    "No results."
+  ],
+  "Whatnot": [
+    "No results."
+  ],
+  "Twitch": [
+    "No results."
+  ],
+  "Samsara": [
+    "No results."
+  ],
+  "Groww": [
+    "No results."
+  ],
+  "Weride": [
+    "Maximum Profit in Job Scheduling"
+  ],
+  "Altimetrik": [
+    "No results."
+  ],
+  "Jump-trading": [
+    "No results."
+  ],
+  "Reddit": [
+    "No results."
+  ],
+  "Citrix": [
+    "No results."
+  ],
+  "Carwale": [
+    "No results."
+  ],
+  "Liveramp": [
+    "No results."
+  ],
+  "Innovaccer": [
+    "Difference Between Element Sum and Digit Sum of an Array",
+    "Create Hello World Function"
+  ],
+  "Criteo": [
+    "No results."
+  ],
+  "Axon": [
+    "Time Based Key-Value Store"
+  ],
+  "Stripe": [
+    "No results."
+  ],
+  "Millennium": [
+    "No results."
+  ],
+  "Okta": [
+    "No results."
+  ],
+  "Inmobi": [
+    "No results."
+  ],
+  "Veeva": [
+    "No results."
+  ],
+  "Chewy": [
+    "No results."
+  ],
+  "Zalando": [
+    "No results."
+  ],
+  "Remitly": [
+    "No results."
+  ],
+  "Ubs": [
+    "No results."
+  ],
+  "The-trade-desk": [
+    "No results."
+  ],
+  "Cadence": [
+    "No results."
+  ],
+  "Rakuten": [
+    "Two Sum",
+    "Merge Strings Alternately",
+    "Subarray Sum Equals K",
+    "Create Hello World Function",
+    "Power of Three",
+    "Maximum Swap",
+    "Recyclable and Low Fat Products",
+    "Find the Count of Monotonic Pairs I",
+    "Add Two Numbers",
+    "Trapping Rain Water",
+    "Merge Intervals",
+    "Merge Sorted Array",
+    "House Robber",
+    "Longest Substring Without Repeating Characters",
+    "Median of Two Sorted Arrays",
+    "Container With Most Water",
+    "3Sum",
+    "Merge Two Sorted Lists",
+    "Best Time to Buy and Sell Stock",
+    "Number of Islands"
+  ],
+  "Github": [
+    "Ugly Number",
+    "Set Mismatch"
+  ],
+  "Turo": [
+    "No results."
+  ],
+  "Wise": [
+    "No results."
+  ],
+  "Factset": [
+    "No results."
+  ],
+  "Nielsen": [
+    "No results."
+  ],
+  "Mercari": [
+    "No results."
+  ],
+  "Tripadvisor": [
+    "No results."
+  ],
+  "Sigmoid": [
+    "No results."
+  ],
+  "Otterai": [
+    "No results."
+  ],
+  "Cloudera": [
+    "No results."
+  ],
+  "Comcast": [
+    "No results."
+  ],
+  "Guidewire": [
+    "No results."
+  ],
+  "Hulu": [
+    "No results."
+  ],
+  "Squarespace": [
+    "Merge Sorted Array"
+  ],
+  "Coindcx": [
+    "No results."
+  ],
+  "Devrev": [
+    "No results."
+  ],
+  "Godaddy": [
+    "No results."
+  ],
+  "Trilogy": [
+    "No results."
+  ],
+  "Gojek": [
+    "No results."
+  ],
+  "Gsn-games": [
+    "No results."
+  ],
+  "Deliveroo": [
+    "No results."
+  ],
+  "Miro": [
+    "No results."
+  ],
+  "Rbc": [
+    "No results."
+  ],
+  "Lowe": [
+    "No results."
+  ],
+  "Opentext": [
+    "No results."
+  ],
+  "Sig": [
+    "Integer to Roman",
+    "Implement Trie (Prefix Tree)"
+  ],
+  "Kla-tencor": [
+    "No results."
+  ],
+  "Alibaba": [
+    "No results."
+  ],
+  "Stackadapt": [
+    "No results."
+  ],
+  "Publicis-sapient": [
+    "No results."
+  ],
+  "C3-ai": [
+    "No results."
+  ],
+  "Cleartrip": [
+    "No results."
+  ],
+  "Dell": [
+    "No results."
+  ],
+  "Nokia": [
+    "No results."
+  ],
+  "Duolingo": [
+    "No results."
+  ],
+  "Urban-company": [
+    "No results."
+  ],
+  "Tesco": [
+    "No results."
+  ],
+  "Careem": [
+    "No results."
+  ],
+  "Gusto": [
+    "No results."
+  ],
+  "Valve": [
+    "No results."
+  ],
+  "Thousandeyes": [
+    "No results."
+  ],
+  "Lg-electronics": [
+    "No results."
+  ],
+  "Vimeo": [
+    "No results."
+  ],
+  "Riot-games": [
+    "No results."
+  ],
+  "Anthropic": [
+    "Web Crawler Multithreaded"
+  ],
+  "6sense": [
+    "No results."
+  ],
+  "Tomtom": [
+    "No results."
+  ],
+  "Argo-ai": [
+    "Russian Doll Envelopes",
+    "Minimum Number of Days to Disconnect Island"
+  ],
+  "Odoo": [
+    "No results."
+  ],
+  "Zip": [
+    "No results."
+  ],
+  "Ponyai": [
+    "No results."
+  ],
+  "Amadeus": [
+    "No results."
+  ],
+  "Acko": [
+    "No results."
+  ],
+  "Curefit": [
+    "No results."
+  ],
+  "Airbus": [
+    "No results."
+  ],
+  "Gameskraft": [
+    "No results."
+  ],
+  "Ziprecruiter": [
+    "No results."
+  ],
+  "Nykaa": [
+    "No results."
+  ],
+  "Apolloio": [
+    "No results."
+  ],
+  "Lti": [
+    "No results."
+  ],
+  "Aon": [
+    "No results."
+  ],
+  "Works-applications": [
+    "No results."
+  ],
+  "Luxoft": [
+    "Reverse Linked List"
+  ],
+  "Aurora": [
+    "No results."
+  ],
+  "Tiger-analytics": [
+    "No results."
+  ],
+  "Tusimple": [
+    "No results."
+  ],
+  "Deltax": [
+    "No results."
+  ],
+  "Sony": [
+    "No results."
+  ],
+  "Trexquant": [
+    "No results."
+  ],
+  "Patreon": [
+    "No results."
+  ],
+  "Rokt": [
+    "No results."
+  ],
+  "Smartnews": [
+    "No results."
+  ],
+  "Mckinsey": [
+    "No results."
+  ],
+  "Fortinet": [
+    "No results."
+  ],
+  "Soti": [
+    "No results."
+  ],
+  "Garmin": [
+    "No results."
+  ],
+  "Activision": [
+    "No results."
+  ],
+  "National-instruments": [
+    "No results."
+  ],
+  "Groupon": [
+    "No results."
+  ],
+  "Mindtickle": [
+    "No results."
+  ],
+  "Wish": [
+    "No results."
+  ],
+  "Maq-software": [
+    "No results."
+  ],
+  "Qualtrics": [
+    "No results."
+  ],
+  "Hpe": [
+    "No results."
+  ],
+  "Fastenal": [
+    "No results."
+  ],
+  "Newsbreak": [
+    "Search in Rotated Sorted Array",
+    "Lowest Common Ancestor of a Binary Tree"
+  ],
+  "Spinny": [
+    "No results."
+  ],
+  "Fourkites": [
+    "No results."
+  ],
+  "Druva": [
+    "No results."
+  ],
+  "Softwire": [
+    "No results."
+  ],
+  "Dialpad": [
+    "No results."
+  ],
+  "Viasat": [
+    "No results."
+  ],
+  "Asana": [
+    "No results."
+  ],
+  "Optum": [
+    "No results."
+  ],
+  "Faire": [
+    "No results."
+  ],
+  "Navi": [
+    "No results."
+  ],
+  "Bp": [
+    "No results."
+  ],
+  "Compass": [
+    "No results."
+  ],
+  "Peloton": [
+    "No results."
+  ],
+  "Blend": [
+    "No results."
+  ],
+  "Virtusa": [
+    "No results."
+  ],
+  "Toast": [
+    "No results."
+  ],
+  "Sumologic": [
+    "No results."
+  ],
+  "Yext": [
+    "No results."
+  ],
+  "Texas-instruments": [
+    "No results."
+  ],
+  "Earnin": [
+    "No results."
+  ],
+  "Tech-mahindra": [
+    "No results."
+  ],
+  "Upstart": [
+    "No results."
+  ],
+  "Redfin": [
+    "Top K Frequent Words"
+  ],
+  "Niantic": [
+    "No results."
+  ],
+  "Winzo": [
+    "No results."
+  ],
+  "Zynga": [
+    "No results."
+  ],
+  "Wissen": [
+    "No results."
+  ],
+  "Dxc": [
+    "No results."
+  ],
+  "Delhivery": [
+    "No results."
+  ],
+  "Ola": [
+    "No results."
+  ],
+  "Unity": [
+    "No results."
+  ],
+  "Poshmark": [
+    "No results."
+  ],
+  "Canva": [
+    "No results."
+  ],
+  "Netskope": [
+    "No results."
+  ],
+  "Canonical": [
+    "No results."
+  ],
+  "Cohesity": [
+    "No results."
+  ],
+  "Adp": [
+    "Check If Digits Are Equal in String After Operations II"
+  ],
+  "Turvo": [
+    "No results."
+  ],
+  "Audible": [
+    "No results."
+  ],
+  "Qburst": [
+    "No results."
+  ],
+  "Olx": [
+    "No results."
+  ],
+  "Cedcoss": [
+    "No results."
+  ],
+  "Worldquant": [
+    "No results."
+  ],
+  "Thomson-reuters": [
+    "No results."
+  ],
+  "Optiver": [
+    "No results."
+  ],
+  "Hp": [
+    "No results."
+  ],
+  "Honeywell": [
+    "No results."
+  ],
+  "At-t": [
+    "No results."
+  ],
+  "Genpact": [
+    "No results."
+  ],
+  "Fidelity": [
+    "No results."
+  ],
+  "Zendesk": [
+    "No results."
+  ],
+  "Blizzard": [
+    "No results."
+  ],
+  "Appfolio": [
+    "No results."
+  ],
+  "Paypay": [
+    "No results."
+  ],
+  "Zoom": [
+    "No results."
+  ],
+  "Cashfree": [
+    "No results."
+  ],
+  "Bosch": [
+    "No results."
+  ],
+  "Gopuff": [
+    "No results."
+  ],
+  "Clari": [
+    "No results."
+  ],
+  "Gartner": [
+    "No results."
+  ],
+  "Ge-digital": [
+    "No results."
+  ],
+  "Paycom": [
+    "No results."
+  ],
+  "Hilabs": [
+    "No results."
+  ],
+  "Liftoff": [
+    "No results."
+  ],
+  "Target": [
+    "No results."
+  ],
+  "Okx": [
+    "No results."
+  ],
+  "Postmates": [
+    "No results."
+  ],
+  "Pubmatic": [
+    "No results."
+  ],
+  "Zillow": [
+    "No results."
+  ],
+  "Tinder": [
+    "No results."
+  ],
+  "Mixpanel": [
+    "No results."
+  ],
+  "Globallogic": [
+    "No results."
+  ],
+  "Braze": [
+    "No results."
+  ],
+  "Informatica": [
+    "No results."
+  ]
+}
