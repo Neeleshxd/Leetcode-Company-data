@@ -1,0 +1,33 @@
+name: Update Company Data
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # every Sunday at 00:00 UTC
+  workflow_dispatch:       # allow manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scraper
+        run: node scrape.js   # your scraping script
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add companies.json
+          git commit -m "Update companies.json" || echo "No changes to commit"
+          git push
